@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-rick-and-morty/static/css/main.68ff7988.css",
-    "main.js": "/react-rick-and-morty/static/js/main.56f56b6f.js",
-    "static/js/453.5b73886b.chunk.js": "/react-rick-and-morty/static/js/453.5b73886b.chunk.js",
-    "index.html": "/react-rick-and-morty/index.html",
-    "main.68ff7988.css.map": "/react-rick-and-morty/static/css/main.68ff7988.css.map",
-    "main.56f56b6f.js.map": "/react-rick-and-morty/static/js/main.56f56b6f.js.map",
-    "453.5b73886b.chunk.js.map": "/react-rick-and-morty/static/js/453.5b73886b.chunk.js.map"
+    "main.css": "/rickandmorthyproject/static/css/main.68ff7988.css",
+    "main.js": "/rickandmorthyproject/static/js/main.b13e3175.js",
+    "static/js/453.5b73886b.chunk.js": "/rickandmorthyproject/static/js/453.5b73886b.chunk.js",
+    "index.html": "/rickandmorthyproject/index.html",
+    "main.68ff7988.css.map": "/rickandmorthyproject/static/css/main.68ff7988.css.map",
+    "main.b13e3175.js.map": "/rickandmorthyproject/static/js/main.b13e3175.js.map",
+    "453.5b73886b.chunk.js.map": "/rickandmorthyproject/static/js/453.5b73886b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68ff7988.css",
-    "static/js/main.56f56b6f.js"
+    "static/js/main.b13e3175.js"
   ]
 }
